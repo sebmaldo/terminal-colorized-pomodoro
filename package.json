@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "chalk": "^2.3.2",
+    "ramda": "^0.25.0",
+    "timeout-as-promise": "^1.0.0"
+  }
+}
